@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 70px;
+
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    color: salmon;
+    font-weight: 700;
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+}
+.header-area{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 3%;
+}
+.header-area img{
+    width: 80%;
+}
+.button-area{
+    text-decoration: none;
+   
+    padding: 10px 20px;
+    border-radius: 5px;
+   background-color: salmon;
+    color: white;
+}
+.header-part{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+p{
+    color: gray;
+}
+.fit{
+    color: black;
+    
+}
+.puti{
+    text-align: center;
+}
+
+#felt{
+    font-size: 50px;
+}
+.fhoto{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.test{
+    text-align: center;
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+}
+.boy{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 10% 25%;
+    color: white;
+    font-weight: 700;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}         
+.boy{
+    text-decoration: none;
+    background-color:salmon ;
+    padding: 10px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+footer{
+    text-align: center;
+    color: salmon;
+}
